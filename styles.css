@@ -221,10 +221,10 @@ header nav ul li a:hover {
 /* Ad Space */
 .ad-space {
     width: 728px;
-    padding: 90px;
+    height: 90px;
+    background-color: #f1f1f1;
     text-align: center;
-    background-color: #e0e0e0;
-    margin: 20px 0;
+    margin: 20px auto;
     border: 1px solid #ccc;
 }
 
