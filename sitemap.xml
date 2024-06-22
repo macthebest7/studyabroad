@@ -1,39 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Homepage -->
     <url>
-        <loc>https://www.studyabroadnavigator.com/</loc>
+        <loc>http://www.studyabroadnavigator.xyz/</loc>
         <lastmod>2024-06-21</lastmod>
-        <changefreq>weekly</changefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
+
+    <!-- Programs Page -->
     <url>
-        <loc>https://www.studyabroadnavigator.com/programs.html</loc>
+        <loc>http://www.studyabroadnavigator.xyz/programs.html</loc>
         <lastmod>2024-06-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
+
+    <!-- Destinations Page -->
     <url>
-        <loc>https://www.studyabroadnavigator.com/destinations.html</loc>
+        <loc>http://www.studyabroadnavigator.xyz/destinations.html</loc>
         <lastmod>2024-06-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
+
+    <!-- Resources Page -->
     <url>
-        <loc>https://www.studyabroadnavigator.com/resources.html</loc>
+        <loc>http://www.studyabroadnavigator.xyz/resources.html</loc>
         <lastmod>2024-06-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
+
+    <!-- Blog Page -->
     <url>
-        <loc>https://www.studyabroadnavigator.com/blog.html</loc>
+        <loc>http://www.studyabroadnavigator.xyz/blog.html</loc>
         <lastmod>2024-06-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
+
+    <!-- Privacy & Policy Page -->
     <url>
-        <loc>https://www.studyabroadnavigator.com/privacy.html</loc>
+        <loc>http://www.studyabroadnavigator.xyz/privacy.html</loc>
         <lastmod>2024-06-21</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
+
+    <!-- Individual Blog Posts -->
+    <url>
+        <loc>http://www.studyabroadnavigator.xyz/blog/top-10-benefits-of-studying-abroad.html</loc>
+        <lastmod>2024-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>http://www.studyabroadnavigator.xyz/blog/how-to-budget-for-your-semester-abroad.html</loc>
+        <lastmod>2024-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Destination-specific Pages -->
+    <url>
+        <loc>http://www.studyabroadnavigator.xyz/destinations/usa.html</loc>
+        <lastmod>2024-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>http://www.studyabroadnavigator.xyz/destinations/uk.html</loc>
+        <lastmod>2024-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>http://www.studyabroadnavigator.xyz/destinations/canada.html</loc>
+        <lastmod>2024-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>http://www.studyabroadnavigator.xyz/destinations/australia.html</loc>
+        <lastmod>2024-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>http://www.studyabroadnavigator.xyz/destinations/germany.html</loc>
+        <lastmod>2024-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>http://www.studyabroadnavigator.xyz/destinations/france.html</loc>
+        <lastmod>2024-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>http://www.studyabroadnavigator.xyz/destinations/japan.html</loc>
+        <lastmod>2024-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>http://www.studyabroadnavigator.xyz/destinations/italy.html</loc>
+        <lastmod>2024-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
 </urlset>
