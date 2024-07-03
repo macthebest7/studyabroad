@@ -158,6 +158,3 @@
     <priority>0.8</priority>
   </url>
 </urlset>
-```
-
-This XML structure includes all the pages you mentioned, with appropriate `lastmod`, `changefreq`, and `priority` values based on the file updates. Adjust any dates or values as necessary for accuracy.
